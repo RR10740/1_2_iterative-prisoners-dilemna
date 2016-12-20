@@ -360,10 +360,10 @@ def copy_template():
             target_file.write(''.join(source))                                   
                      
 def post_to_api():
-    pass
+    pass 
 
 def post_to_local_html():
-    pass
+    pass #Ryan is number 366
     
 def post_to_file(string, filename='tournament.txt', directory=''):
     '''Write output in a txt file.
