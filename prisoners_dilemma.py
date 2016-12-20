@@ -24,7 +24,11 @@ from __future__ import print_function
 # Computer Science and Software Engineering
 # PLTW AP CS Principles
 # (c)2014 Project Lead The Way, Inc.
+<<<<<<< HEAD
 # bow before me 
+=======
+# Ryan is number 0
+>>>>>>> refs/remotes/origin/master
 # Activity 1.3.9 Tools for Collaboration
 # Project 1.3.10 Collaborating on a Project
 # 
@@ -381,10 +385,9 @@ def copy_template():
             target_file.write(''.join(source))                                   
                      
 def post_to_api():
-    pass
+    pass 
 
 def post_to_local_html():
-    pass
     
 def post_to_file(string, filename='tournament.txt', directory=''):
     '''Write output in a txt file.
